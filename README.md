@@ -1,4 +1,4 @@
-# PhysScene: PhysScene: A Scene Graph Dataset for Relational Modeling in Physics Experiments
+# PhysScene: A Scene Graph Dataset for Relational Modeling in Physics Experiments
 
 ## 📥 Download
 
