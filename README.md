@@ -55,11 +55,11 @@ This dataset involves human participants in both data collection and recording p
 
 ### Human Subjects
 
-All participants involved in the data collection process have provided informed consent prior to participation. Participation was voluntary, and individuals had the right to withdraw at any time.
+Participants were informed about the purpose and procedure of the data collection in advance. Participation was voluntary, and individuals had the right to decline or withdraw at any time.
 
 ### Privacy & Anonymization
 
-All data has been reviewed to minimize personally identifiable information (PII). Where applicable, sensitive information has been removed or anonymized to protect participant privacy.
+All data has been reviewed to minimize personally identifiable information.
 
 ### Data Usage
 
@@ -71,7 +71,7 @@ This dataset is intended for research and academic purposes only. Users are expe
 
 ### Ethical Compliance
 
-The data collection process follows standard ethical guidelines for human-subject research. If required, the study protocol has been reviewed and approved by the appropriate institutional review board (IRB) or ethics committee.
+The data collection process follows standard ethical guidelines for human-subject research.
 
 ### Release Status
 
