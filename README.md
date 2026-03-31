@@ -49,3 +49,34 @@
 
   **Detailed results are coming soon...**
 
+## 🛡️ Ethics & Data Governance
+
+This dataset involves human participants in both data collection and recording processes. We take ethical considerations, privacy protection, and responsible data usage seriously.
+
+### Human Subjects
+
+All participants involved in the data collection process have provided informed consent prior to participation. Participation was voluntary, and individuals had the right to withdraw at any time.
+
+### Privacy & Anonymization
+
+All data has been reviewed to minimize personally identifiable information (PII). Where applicable, sensitive information has been removed or anonymized to protect participant privacy.
+
+### Data Usage
+
+This dataset is intended for research and academic purposes only. Users are expected to:
+
+* Use the data responsibly and ethically
+* Avoid attempts to identify or contact participants
+* Comply with all applicable laws and institutional guidelines
+
+### Ethical Compliance
+
+The data collection process follows standard ethical guidelines for human-subject research. If required, the study protocol has been reviewed and approved by the appropriate institutional review board (IRB) or ethics committee.
+
+### Release Status
+
+🚧 Some parts of the dataset and detailed annotations are still under preparation and will be released in a future update.
+
+### Contact
+
+If you have any concerns regarding ethics, privacy, or data usage, please contact us.
