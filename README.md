@@ -41,11 +41,11 @@
 
 ## :bar_chart: Fine-Grained experimental results
 
-### 1. Performance across three relation types ### 
+### 1. Performance across three relation types
 
   **Detailed results are coming soon...**
 
-### 2. Results by individual relation ### 
+### 2. Results by individual relation
 
   **Detailed results are coming soon...**
 
