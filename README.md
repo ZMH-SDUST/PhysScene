@@ -43,40 +43,40 @@
 
 ### 1. Performance across three relation types
 
-  **Detailed results are coming soon...**
+**Detailed results are coming soon...**
 
 ### 2. Results by individual relation
 
-  **Detailed results are coming soon...**
+**Detailed results are coming soon...**
 
 ## 🛡️ Ethics & Data Governance
 
-This dataset involves human participants in both data collection and recording processes. We take ethical considerations, privacy protection, and responsible data usage seriously.
+**This dataset involves human participants in both data collection and recording processes. We take ethical considerations, privacy protection, and responsible data usage seriously.**
 
 ### Human Subjects
 
-Participants were informed about the purpose and procedure of the data collection in advance. Participation was voluntary, and individuals had the right to decline or withdraw at any time.
+**Participants were informed about the purpose and procedure of the data collection in advance. Participation was voluntary, and individuals had the right to decline or withdraw at any time.**
 
 ### Privacy & Anonymization
 
-All data has been reviewed to minimize personally identifiable information.
+**All data has been reviewed to minimize personally identifiable information.**
 
 ### Data Usage
 
-This dataset is intended for research and academic purposes only. Users are expected to:
+**This dataset is intended for research and academic purposes only. Users are expected to:**
 
-* Use the data responsibly and ethically
-* Avoid attempts to identify or contact participants
-* Comply with all applicable laws and institutional guidelines
+* **Use the data responsibly and ethically**
+* **Avoid attempts to identify or contact participants**
+* **Comply with all applicable laws and institutional guidelines**
 
 ### Ethical Compliance
 
-The data collection process follows standard ethical guidelines for human-subject research.
+**The data collection process follows standard ethical guidelines for human-subject research.**
 
 ### Release Status
 
-🚧 Some parts of the dataset and detailed annotations are still under preparation and will be released in a future update.
+🚧 **The current version of the dataset has been fully released. Additional experimental types and more comprehensive annotations will be continuously updated and made available at this repository.**
 
 ### Contact
 
-If you have any concerns regarding ethics, privacy, or data usage, please contact us.
+**If you have any concerns regarding ethics, privacy, or data usage, please contact us.**
