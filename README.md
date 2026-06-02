@@ -43,8 +43,9 @@
 
 ### (1) Performance across object types
 
-**Detailed results are coming soon...**
-
+<p align="center">
+  <img src="imgs/object.jpg" alt="Dataset Overview" width="900">
+</p>
 ### (2) Performance across relation types
 
 **Detailed results are coming soon...**
