@@ -1,4 +1,4 @@
-# Experiment Settings
+# Experimental Settings
 
 ## Hyperparameter Configuration
 
