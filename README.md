@@ -49,7 +49,7 @@
 
 **Detailed results are coming soon...**
 <p align="center">
-  <img src="imgs/verb_avg_scores_colored.jpg" alt="Dataset Overview" width="900">
+  <img src="imgs/verb.jpg" alt="Dataset Overview" width="900">
 </p>
 
 ## 🛡️ Ethics & Data Governance
