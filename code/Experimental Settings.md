@@ -20,11 +20,11 @@ We used `random.shuffle` to randomly shuffle the data before splitting. The rand
 Seed = 1234
 ```
 
-### CS-SGG Setting
+### 1. CS-SGG Setting
 
 For the **CS-SGG** setting, we performed a sample-level random split.
 
-### OvD-SGG Setting
+### 2. OvD-SGG Setting
 
 For the **OvD-SGG** setting, we performed a random split based on the object type list.
 
@@ -69,7 +69,7 @@ The complete object list is:
 ]
 ```
 
-### OvR-SGG Setting
+### 3. OvR-SGG Setting
 
 For the **OvR-SGG** setting, we performed a random split based on the relation type list.
 
