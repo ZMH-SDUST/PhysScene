@@ -56,6 +56,14 @@
 
 **This dataset involves human participants in both data collection and recording processes. We take ethical considerations, privacy protection, and responsible data usage seriously.**
 
+### License
+
+**PhysScene is released under the CC BY-NC 4.0 License. The dataset may be used for non-commercial research and academic purposes with appropriate attribution. Commercial use is prohibited without prior permission. Users are expected to:**
+
+* **Use the data responsibly and ethically**
+* **Avoid attempts to identify or contact participants**
+* **Comply with all applicable laws and institutional guidelines**
+
 ### Human Subjects
 
 **Participants were informed about the purpose and procedure of the data collection in advance. Participation was voluntary, and individuals had the right to decline or withdraw at any time.**
@@ -63,14 +71,6 @@
 ### Privacy & Anonymization
 
 **All data has been reviewed to minimize personally identifiable information.**
-
-### Data Usage
-
-**This dataset is intended for research and academic purposes only. Users are expected to:**
-
-* **Use the data responsibly and ethically**
-* **Avoid attempts to identify or contact participants**
-* **Comply with all applicable laws and institutional guidelines**
 
 ### Ethical Compliance
 
