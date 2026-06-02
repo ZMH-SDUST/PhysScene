@@ -15,8 +15,7 @@ The corresponding paper is:
   booktitle={Computer Vision and Pattern Recognition (CVPR)},
   year={2017}
 }
-Paper: Scene Graph Generation by Iterative Message Passing
 
-In our experiments, we did not modify the model hyperparameter configuration from the referenced open-source implementation. Unless otherwise stated, the model settings and hyperparameters were kept consistent with the original released project.
+**In our experiments, we did not modify the model hyperparameter configuration from the referenced open-source implementation. Unless otherwise stated, the model settings and hyperparameters were kept consistent with the original released project.**
 
 If you use this project or the referenced implementation, please also cite the original paper above and acknowledge the open-source repository.
