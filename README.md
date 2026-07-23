@@ -3,7 +3,7 @@
 ## 📥 Download
 
 - **Images can be download at [Here](https://drive.google.com/file/d/1TFqrm0HJSXRIGNiXXGiQIR3Qp6FmW4M9/view?usp=sharing)!**
-- **Annotations can be download at [Here](https://drive.google.com/file/d/1yhih6c3b5LQTz54PTSNnML-18Myx7Psu/view?usp=drive_link)!**
+- **Annotations can be download at [Here](https://drive.google.com/file/d/1mSBoZCi2w82LweFwFVnBYKsjBiC_SpHC/view?usp=drive_link)!**
 
 ## 📘 Experimental Manual
 
